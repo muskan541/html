@@ -1,0 +1,52 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+	width: 100%;
+	height: 80px;
+}
+.logo{
+	width: 128px;
+    margin-left: 170px;
+    margin-top: 18px;
+}
+.img{
+	background: url(image/bag.jpg);
+	width: 100%;
+	height: 700px
+}
+.menu{
+	margin-left: 620px;
+	margin-top: -31px;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 17px;    
+}
+.box{
+	border: 1px solid;
+	width: 514px;
+	height: 484px;
+	margin: 57px;
+	float: left;
+}
+.bg{
+	width: 100%;
+	height: 100%;
+}
+.a{
+    width: 83%;
+    margin: auto;	
+}
+.footer{
+	width: 100%;
+	background: black;
+	height: 233px;
+	float: right;
+}
+.footer2{
+	width: 100%;
+	background: wheat;
+	height: 500px;
+	float: right;
+}

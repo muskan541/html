@@ -1,0 +1,21 @@
+body{
+	background-color: #a7dbe3;
+	background-image: url(image/muskan.jpg);
+	color: white;
+	font-size: 22px;
+}
+
+h1{
+	font-size: 70px;
+	color: #3747b3;
+}
+
+p{
+	color: #2f4c5c;
+}
+.box{
+	background-image: url(image/12345.jpg);
+	padding: 200px 100px;
+	margin: 100px;
+	background-repeat: repeat-x;
+}

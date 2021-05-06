@@ -1,0 +1,236 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+	width: 100%;
+	height: 70px;
+	background: white;
+	
+}
+.logo{    
+	width: 125px;
+    margin-left: 166px;
+    margin-top: 18px;
+}
+.menu{
+	    margin-left: 1049px;
+    margin-top: -20px;
+}
+.menu a{
+	text-decoration: none;
+	color: #d70f64;
+	margin: 13px;
+	font-family: sans-serif;
+}
+.a{
+    background-image: url('https://www.foodpanda.com/wp-content/uploads/2021/01/foodpanda-model-opt-scaled.jpg');
+    width: 100%;
+    height: 650px;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.b{
+    color: white;
+    font-family: -webkit-pictograph;
+    text-align: center;
+    line-height: 569px;
+    font-size: 46px;
+
+}
+.head{
+	width: 100%;
+	height: 50px;
+	background: white;
+	margin-top: 16px;
+	background-color: rgba(0,0,0,0.5);
+}
+.box{
+	width: 100%;
+	height: 700px;
+	text-align: center;	
+    margin-top: 205px;
+
+}
+.c{
+	font-size: 19px;
+    font-family: sans-serif;
+    color: grey;
+}
+.d{
+	background: url(https://www.foodpanda.com/wp-content/uploads/2021/01/foodpanda-rider-opt.jpg);
+	width: 100%;
+    height: 650px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.e{	
+	background: url(https://www.foodpanda.com/wp-content/uploads/2021/01/foodpanda-tuna-opt-scaled.jpg);
+	width: 100%;
+    height: 650px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;    
+    margin-top: -18px;
+
+   }
+
+.h4{
+	color: white;
+    font-family: sans-serif;
+    font-size: 12px;
+        margin-left: 98px;
+    line-height: 32px;
+
+}
+.footer{
+	width: 100%;
+	height: 660px;
+	background: #d70f64;
+}
+.next-footer{
+	width: 100%;
+	height: 130px;
+	background: white;
+}
+.h1{
+	font-family: sans-serif;
+	margin-bottom: 39px;
+	color: #d70f64;
+}
+.h2{
+	font-family: sans-serif;
+	margin-bottom: -76px;
+	color: #d70f64;
+	line-height: 245px; 
+    font-size: 30px;
+
+}
+.join{
+	width: 100%;
+	height: 700px;
+	text-align: center;	
+ 
+}
+.para{
+	color: white;
+    font-size: 21px;
+    font-family: sans-serif
+}
+.press{
+	text-align: center;
+}
+.h3{
+    line-height: 310px;
+    font-size: 34px;
+    font-family: sans-serif;
+    color: #d70f64;
+    margin-bottom: -93px
+}
+.para1{
+    font-size: 19px;
+    font-family: sans-serif;
+    color: white;
+}
+.h5{
+    line-height: 446px;
+    font-size: 32px;
+    font-family: sans-serif;
+    margin-bottom: -180px;
+}
+.para2{
+    font-family: sans-serif;
+    font-size: 19px;
+}
+.touch{
+	text-align: center;
+	color: white;
+}
+.foot{
+	width: 206px;
+	margin-bottom: 5px;
+	padding-left: 95px;
+    margin-top: 36px;
+}
+.u{
+	font-family: sans-serif;
+    margin: 109px;
+    color: grey;
+}
+.button1{
+	border-style: none;
+	color: white;
+    background: #d70f64;
+    height: 46px;
+    font-size: 17px;
+    width: 286px;
+    margin-top: 46px;
+}
+.button2{
+	color: white;
+    background: #d70f64;
+    height: 46px;
+    font-size: 17px;
+    width: 286px;
+    margin-top: 46px;
+    border-style: none;
+}
+.button3{
+    color: white;
+    background: #d70f64;
+    height: 46px;
+    font-size: 17px;
+    width: 286px;
+    margin-top: 46px;
+    border-style: none;
+}
+.button4{
+	height: 46px;
+    width: 286px;
+    font-size: 17px;
+    color: #d70f64;
+    margin-top: 52px;
+    border-style: none;
+}
+.footer-end{
+	margin-top:-67px;
+	margin-left: 1340px;
+
+}
+.column{
+	margin-left: 1238px;
+    text-decoration: none;
+    color: gray;
+    font-family: sans-serif;
+    margin-top: 0px;
+}
+.column a{
+	 text-decoration: none;
+    color: gray;
+}
+.flages{
+	width: 43px;
+    border-radius: 6px;
+    margin-top: 10px;
+
+}
+.flag{
+	margin-left: 430px;
+	margin-top: -34px;
+
+}
+.icons a{
+	display: inline-block;
+    background: white;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    margin: 0 10px 10px 0;
+    border-radius: 18px;
+    line-height: 30px;
+    color: deeppink;
+    border: 1px solid;
+}
+
+
